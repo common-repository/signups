@@ -1,0 +1,31 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+span.dashicons.dashicons-plus.add-slot {
+    margin-top: 0.25em;
+    display: inline-block;
+    background-color: #46b450;
+    color: #fff;
+    font-size: 12px;
+    line-height: 23px;
+    font-weight: 600;
+    vertical-align: top;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    z-index: 26;
+}
+span.dashicons.dashicons-minus.remove-slot {
+    margin-top: .25em !important;
+    margin-left: .2em;
+    display: inline-block;
+    background-color: #d54e21;
+    color: #fff;
+    font-size: 12px;
+    line-height: 21px;
+    font-weight: 600;
+    vertical-align: top;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    z-index: 26;
+}
